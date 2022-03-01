@@ -1,0 +1,58 @@
+{
+  "equipos": [
+
+   
+    {
+        "idteam": 34,
+        "nombre": "DTS34",
+        "tipo": "Tribu",
+        "urlLogo": "../../img/dts37.jpg",
+        "mision": "Somos la familia DTS33 y nos caracterizamos por accionar con amor, éxito, inspiración, felicidad, dispuestos a transformar 36 corazones dibujando sonrisas en los niños.",
+        "legado": "Parque infantil en la escuela rural de la vereda Sucre en Mutiscua Norte de Santander",
+        "descripcion": "Nuestro propósito de contribuir al sano crecimiento y formación de los niños, llegamos hasta la vereda de Sucre en Mutiscua, norte de Santander. Allí encontramos a estos angelitos maravillosos de los que recibimos más de lo que pudimos entregar. Amor no es amor hasta que lo regalas y esta experiencia maravillosa nos lo dejó claro.",
+        "urlImgLegados": "../../img/legados/dts"
+    },
+    {
+        "idteam": 33,
+        "nombre": "DTS33",
+        "tipo": "Familia",
+        "urlLogo": "../../img/dts37.jpg",
+        "mision": "Somos la familia DTS33 y nos caracterizamos por accionar con amor, éxito, inspiración, felicidad, dispuestos a transformar 36 corazones dibujando sonrisas en los niños.",
+        "legado": "Parque infantil en la escuela rural de la vereda Sucre en Mutiscua Norte de Santander",
+        "descripcion": "Nuestro propósito de contribuir al sano crecimiento y formación de los niños, llegamos hasta la vereda de Sucre en Mutiscua, norte de Santander. Allí encontramos a estos angelitos maravillosos de los que recibimos más de lo que pudimos entregar. Amor no es amor hasta que lo regalas y esta experiencia maravillosa nos lo dejó claro.",
+        "urlImgLegados": "../../img/legados/dts"
+      },   
+ 
+      {
+        "idteam": 32,
+        "nombre": "DTS32",
+        "tipo": "Dinastía",
+        "urlLogo": "../../img/dts37.jpg",
+        "mision": "Somos la familia DTS33 y nos caracterizamos por accionar con amor, éxito, inspiración, felicidad, dispuestos a transformar 36 corazones dibujando sonrisas en los niños.",
+        "legado": "Ludoteca en la escuela rural de la vereda Sucre en Mutiscua Norte de Santander",
+        "descripcion": "Nuestro propósito de contribuir al sano crecimiento y formación de los niños, llegamos hasta la vereda de Sucre en Mutiscua, norte de Santander. Allí encontramos a estos angelitos maravillosos de los que recibimos más de lo que pudimos entregar. Amor no es amor hasta que lo regalas y esta experiencia maravillosa nos lo dejó claro.",
+        "urlImgLegados": "../../img/legados/dts"
+      },
+      {
+        "idteam": 31,
+        "nombre": "DTS31",
+        "tipo": "Equipo",
+        "urlLogo": "../../img/dts37.jpg",
+        "mision": "Somos la familia DTS33 y nos caracterizamos por accionar con amor, éxito, inspiración, felicidad, dispuestos a transformar 36 corazones dibujando sonrisas en los niños.",
+        "legado": "Ludoteca en la escuela rural de la vereda Sucre en Mutiscua Norte de Santander",
+        "descripcion": "Nuestro propósito de contribuir al sano crecimiento y formación de los niños, llegamos hasta la vereda de Sucre en Mutiscua, norte de Santander. Allí encontramos a estos angelitos maravillosos de los que recibimos más de lo que pudimos entregar. Amor no es amor hasta que lo regalas y esta experiencia maravillosa nos lo dejó claro.",
+        "urlImgLegados": "../../img/legados/dts"
+      },
+      {
+        "idteam": 30,
+        "nombre": "DTS30",
+        "tipo": "Equipo",
+        "urlLogo": "../../img/dts37.jpg",
+        "mision": "Somos la familia DTS33 y nos caracterizamos por accionar con amor, éxito, inspiración, felicidad, dispuestos a transformar 36 corazones dibujando sonrisas en los niños.",
+        "legado": "Ludoteca en la escuela rural de la vereda Sucre en Mutiscua Norte de Santander",
+        "descripcion": "Nuestro propósito de contribuir al sano crecimiento y formación de los niños, llegamos hasta la vereda de Sucre en Mutiscua, norte de Santander. Allí encontramos a estos angelitos maravillosos de los que recibimos más de lo que pudimos entregar. Amor no es amor hasta que lo regalas y esta experiencia maravillosa nos lo dejó claro.",
+        "urlImgLegados": "../../img/legados/dts"
+      }
+
+  ]
+}
