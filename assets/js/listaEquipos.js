@@ -1,4 +1,4 @@
-fetch('../assets/data/dataEquipos.json')
+fetch('https://github.com/Gio-Moreno/ulider/blob/main/assets/data/dataEquipos.json')
 .then(response => response.json() )
 .then(data => {
     let div = "";    
