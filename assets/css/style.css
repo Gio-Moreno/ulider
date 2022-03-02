@@ -1329,7 +1329,7 @@ a:focus {
 
 .testimonial .testimonial-name p {
     margin: 0;
-    font-style: italic;
+    font-weight: 600;
 }
 
 .testimonial .testimonial-text p {
