@@ -1,4 +1,4 @@
-fetch('../assets/data/dataEquipos.json')
+fetch('../data/dataEquipos.json')
 .then(response => response.json() )
 .then(data => {
     let div = "";    
